@@ -10,6 +10,7 @@ Highlights of APIs used in this sample:
  - Modify user attributes 
  - Connect and listen to WebSocket events for real-time responses to messages
  - Post a message to a channel
+ -Contains informative README file
 
 ## Setup Server Environment
 
